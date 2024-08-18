@@ -1,0 +1,28 @@
+.container{
+    padding:20px;
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    width:400px;
+    margin:0 auto;
+    background:#02193c;
+    border-bottom:5px solid #fca311;
+    color:white;
+    border-radius:10px;
+}
+body{
+    margin:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar{
+    width:150px;
+    border-radius:100%;
+    border:1px dotted blue;
+    
+}
+p{
+    text-align:center;
+}
+.Info-wrapper h3{
+    align-items:center;
+}
